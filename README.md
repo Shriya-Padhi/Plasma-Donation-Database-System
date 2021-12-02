@@ -4,4 +4,5 @@ The coronavirus pandemic has brought the world to a standstill. Each and every g
 
 Please refer to the [Project Report](https://github.com/atharvagj-ai/Plasma-Donation-Database-System/blob/main/documentation/Project%20Report.pdf) for the complete functionalities of the system.
 Visit [Plasma Donation System](http://plasma-donation-system.herokuapp.com/) to use the deployed web app.
-Created by Shriya Padhi
+
+Created by Shriya Padhi, Palak Praneet, Atharva Jibhakate and Shivansh Singh
